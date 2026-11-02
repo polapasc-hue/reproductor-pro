@@ -1,0 +1,17 @@
+REPRODUCTOR PRO - versión para Android (app instalable)
+
+CÓMO INSTALARLA DESDE EL CELULAR
+1. Sube estos archivos (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png)
+   a un hosting con https. La opción gratuita más simple es GitHub Pages:
+   - Crea una cuenta en github.com y un repositorio nuevo (público).
+   - Add file > Upload files: sube los 5 archivos al repositorio.
+   - Settings > Pages: elige la rama main y la carpeta / (root). Guarda.
+   - Espera 1-2 minutos: te dará una dirección como https://tuusuario.github.io/nombre/
+2. Abre esa dirección en Chrome para Android.
+3. Menú ⋮ > Instalar app (o Agregar a la pantalla principal).
+4. Listo: se abre como una app, sin barra del navegador, y funciona sin internet.
+
+NOTAS
+- Tu playlist, tus presets y tu rack de plugins se guardan en el teléfono.
+- La pestaña IA y el botón TUNE solo funcionan dentro de Claude, por eso aquí se ocultan.
+- Para obtener un APK real puedes darle tu dirección https a pwabuilder.com.
